@@ -4,7 +4,7 @@ DIY-prolog     2026/5
 C言語で800行程度、prologの入門書に出てくる例題を実行できる程度です。
 
 ソースコードはDIYpro1.c（整数のみ）、DIYpro2.c（実数対応）
-gccによる実行ファイルは、DIYpro1.exeとDIYpro2.exeです。
+gccによる実行ファイルは、DIYpro1.exeとDIYpro2.exeですが、消去しました。
 起動時に読み込むprologプログラムはprog.plです。
 
 ・alloc、mallocは不使用、固定配列のみ。メモリリーク対策です。

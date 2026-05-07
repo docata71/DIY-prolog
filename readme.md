@@ -93,7 +93,7 @@ gccによる実行ファイルは、DIYpro1.exeとDIYpro2.exeですが、消去�
 
   DIYpro2では、実数計算は、代入式=の右辺で行い、通常の論理式では
   整数化（小数点切り捨て）して評価します。
-  定数は、pai,c0(高速),h0(プランク定数),q0(電子の電荷),kB(ボルツマン定数),
+  定数は、pai,c0(光速),h0(プランク定数),q0(電子の電荷),kB(ボルツマン定数),
   e0(真空の誘電率）,u0(真空の透磁率),mole(アボガドロ数),
   sigma(シュテファン・ボルツマン定数),deg(pai/180)
   実数の関数は、sin,cos,tan,asin,acos,atan,atan2,exp,log,log10,abs,int,sqrt,pow,rt,neg,
